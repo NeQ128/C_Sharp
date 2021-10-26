@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP聊天室合併", "TCP聊天室合併.csproj", "{90146FEB-6E35-4819-B5F2-9304A60E0882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90146FEB-6E35-4819-B5F2-9304A60E0882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90146FEB-6E35-4819-B5F2-9304A60E0882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90146FEB-6E35-4819-B5F2-9304A60E0882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90146FEB-6E35-4819-B5F2-9304A60E0882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD8120EF-ECB6-455B-BC79-058FE7F7C1CC}
+	EndGlobalSection
+EndGlobal

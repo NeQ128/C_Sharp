@@ -1,0 +1,58 @@
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\TCP聊天室合併.exe.config
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\TCP聊天室合併.exe
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\TCP聊天室合併.pdb
+D:\Coding\C#\TCP\TCP聊天室合併\obj\Debug\TCP聊天室合併.csprojAssemblyReference.cache
+D:\Coding\C#\TCP\TCP聊天室合併\obj\Debug\TCP聊天室合併.Form1.resources
+D:\Coding\C#\TCP\TCP聊天室合併\obj\Debug\TCP聊天室合併.Properties.Resources.resources
+D:\Coding\C#\TCP\TCP聊天室合併\obj\Debug\TCP聊天室合併.csproj.GenerateResource.cache
+D:\Coding\C#\TCP\TCP聊天室合併\obj\Debug\TCP聊天室合併.csproj.CoreCompileInputs.cache
+D:\Coding\C#\TCP\TCP聊天室合併\obj\Debug\TCP聊天室合併.exe
+D:\Coding\C#\TCP\TCP聊天室合併\obj\Debug\TCP聊天室合併.pdb
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Buffers.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Memory.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Numerics.Vectors.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Text.Encodings.Web.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Text.Json.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.ValueTuple.dll
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Buffers.xml
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Memory.xml
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Numerics.Vectors.xml
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Text.Encodings.Web.xml
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Text.Json.xml
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Coding\C#\TCP\TCP聊天室合併\bin\Debug\System.ValueTuple.xml
+D:\Coding\C#\TCP\TCP聊天室合併\obj\Debug\TCP聊天室合併.csproj.CopyComplete
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\obj\Debug\TCP聊天室合併.csprojAssemblyReference.cache
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\obj\Debug\TCP聊天室合併.Form1.resources
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\obj\Debug\TCP聊天室合併.Properties.Resources.resources
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\obj\Debug\TCP聊天室合併.csproj.GenerateResource.cache
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\obj\Debug\TCP聊天室合併.csproj.CoreCompileInputs.cache
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\obj\Debug\TCP聊天室合併.exe
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\obj\Debug\TCP聊天室合併.pdb
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\TCP聊天室合併.exe.config
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\TCP聊天室合併.exe
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\TCP聊天室合併.pdb
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Buffers.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Memory.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Numerics.Vectors.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Text.Encodings.Web.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Text.Json.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.ValueTuple.dll
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Buffers.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Memory.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Numerics.Vectors.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Text.Encodings.Web.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Text.Json.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\bin\Debug\System.ValueTuple.xml
+D:\Coding\C#\TCP\TCP聊天室合併 - 複製\obj\Debug\TCP聊天室合併.csproj.CopyComplete

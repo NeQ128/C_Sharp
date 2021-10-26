@@ -1,0 +1,10 @@
+D:\Coding\C#\TCP\TCP通訊\使用者端\bin\Debug\使用者端.exe.config
+D:\Coding\C#\TCP\TCP通訊\使用者端\bin\Debug\使用者端.exe
+D:\Coding\C#\TCP\TCP通訊\使用者端\bin\Debug\使用者端.pdb
+D:\Coding\C#\TCP\TCP通訊\使用者端\obj\Debug\使用者端.csprojAssemblyReference.cache
+D:\Coding\C#\TCP\TCP通訊\使用者端\obj\Debug\使用者端.Form1.resources
+D:\Coding\C#\TCP\TCP通訊\使用者端\obj\Debug\使用者端.Properties.Resources.resources
+D:\Coding\C#\TCP\TCP通訊\使用者端\obj\Debug\使用者端.csproj.GenerateResource.cache
+D:\Coding\C#\TCP\TCP通訊\使用者端\obj\Debug\使用者端.csproj.CoreCompileInputs.cache
+D:\Coding\C#\TCP\TCP通訊\使用者端\obj\Debug\使用者端.exe
+D:\Coding\C#\TCP\TCP通訊\使用者端\obj\Debug\使用者端.pdb

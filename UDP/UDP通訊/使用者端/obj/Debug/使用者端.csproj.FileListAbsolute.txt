@@ -1,0 +1,10 @@
+D:\MachineLearning\C#\UDP通訊\使用者端\bin\Debug\使用者端.exe.config
+D:\MachineLearning\C#\UDP通訊\使用者端\bin\Debug\使用者端.exe
+D:\MachineLearning\C#\UDP通訊\使用者端\bin\Debug\使用者端.pdb
+D:\MachineLearning\C#\UDP通訊\使用者端\obj\Debug\使用者端.csprojAssemblyReference.cache
+D:\MachineLearning\C#\UDP通訊\使用者端\obj\Debug\使用者端.Form1.resources
+D:\MachineLearning\C#\UDP通訊\使用者端\obj\Debug\使用者端.Properties.Resources.resources
+D:\MachineLearning\C#\UDP通訊\使用者端\obj\Debug\使用者端.csproj.GenerateResource.cache
+D:\MachineLearning\C#\UDP通訊\使用者端\obj\Debug\使用者端.csproj.CoreCompileInputs.cache
+D:\MachineLearning\C#\UDP通訊\使用者端\obj\Debug\使用者端.exe
+D:\MachineLearning\C#\UDP通訊\使用者端\obj\Debug\使用者端.pdb

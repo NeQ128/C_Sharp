@@ -1,0 +1,15 @@
+D:\MachineLearning\C#\UDP塗鴉牆\bin\Debug\UDP塗鴉牆.exe.config
+D:\MachineLearning\C#\UDP塗鴉牆\bin\Debug\UDP塗鴉牆.exe
+D:\MachineLearning\C#\UDP塗鴉牆\bin\Debug\UDP塗鴉牆.pdb
+D:\MachineLearning\C#\UDP塗鴉牆\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\MachineLearning\C#\UDP塗鴉牆\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\MachineLearning\C#\UDP塗鴉牆\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\MachineLearning\C#\UDP塗鴉牆\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.Design.resources.dll
+D:\MachineLearning\C#\UDP塗鴉牆\obj\Debug\UDP塗鴉牆.csprojAssemblyReference.cache
+D:\MachineLearning\C#\UDP塗鴉牆\obj\Debug\UDP塗鴉牆.Form1.resources
+D:\MachineLearning\C#\UDP塗鴉牆\obj\Debug\UDP塗鴉牆.Properties.Resources.resources
+D:\MachineLearning\C#\UDP塗鴉牆\obj\Debug\UDP塗鴉牆.csproj.GenerateResource.cache
+D:\MachineLearning\C#\UDP塗鴉牆\obj\Debug\UDP塗鴉牆.csproj.CoreCompileInputs.cache
+D:\MachineLearning\C#\UDP塗鴉牆\obj\Debug\UDP塗鴉牆.csproj.CopyComplete
+D:\MachineLearning\C#\UDP塗鴉牆\obj\Debug\UDP塗鴉牆.exe
+D:\MachineLearning\C#\UDP塗鴉牆\obj\Debug\UDP塗鴉牆.pdb

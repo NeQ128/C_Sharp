@@ -1,0 +1,45 @@
+using System.Text.Json;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        class Message
+        {
+            public int msg_num { get; set; }
+            public string msg_user { get; set; }
+            public string msg_text[] { get; set; }
+        }
+        static void Main(string[] args)
+        {
+            Message msg = new Message
+            {
+                msg_num = 1,
+                msg_user = "aa",
+                msg_text = new string[] { "安安", "你好嗎？", "123"}
+            };
+
+            //string 序列化轉換 json
+            string msg_json = JsonSerializer.Serialize(msg);
+            //json 還原序列化轉換 string
+            Message json_msg = JsonSerializer.Deserialize<Message>(msg_json);
+           
+        }
+    }
+}
+
+工具 → 管理 Nuget → 管理方案的 Nuget 套件
+System.Text.Json
+System.Runtime.CompilerServices.Unsafe → 5.0.0
+
+
+            for(int i = 1;i < 10; i++)
+            {
+                ListMember lm = new ListMember
+                {
+                    member_num = i,
+                    member_name = "A" + i.ToString()
+                };
+                listBox1.Items.Add(lm);
+            }
+            textBox4.Text += OnlineList() + "\r\n";

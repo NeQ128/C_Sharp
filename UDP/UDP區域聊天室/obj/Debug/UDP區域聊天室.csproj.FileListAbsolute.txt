@@ -1,0 +1,10 @@
+D:\MachineLearning\C#\UDP區域聊天室\bin\Debug\UDP區域聊天室.exe.config
+D:\MachineLearning\C#\UDP區域聊天室\bin\Debug\UDP區域聊天室.exe
+D:\MachineLearning\C#\UDP區域聊天室\bin\Debug\UDP區域聊天室.pdb
+D:\MachineLearning\C#\UDP區域聊天室\obj\Debug\UDP區域聊天室.csprojAssemblyReference.cache
+D:\MachineLearning\C#\UDP區域聊天室\obj\Debug\UDP區域聊天室.Form1.resources
+D:\MachineLearning\C#\UDP區域聊天室\obj\Debug\UDP區域聊天室.Properties.Resources.resources
+D:\MachineLearning\C#\UDP區域聊天室\obj\Debug\UDP區域聊天室.csproj.GenerateResource.cache
+D:\MachineLearning\C#\UDP區域聊天室\obj\Debug\UDP區域聊天室.csproj.CoreCompileInputs.cache
+D:\MachineLearning\C#\UDP區域聊天室\obj\Debug\UDP區域聊天室.exe
+D:\MachineLearning\C#\UDP區域聊天室\obj\Debug\UDP區域聊天室.pdb

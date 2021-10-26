@@ -1,0 +1,10 @@
+D:\MachineLearning\C#\UDP即時通\bin\Debug\UDP即時通.exe.config
+D:\MachineLearning\C#\UDP即時通\bin\Debug\UDP即時通.exe
+D:\MachineLearning\C#\UDP即時通\bin\Debug\UDP即時通.pdb
+D:\MachineLearning\C#\UDP即時通\obj\Debug\UDP即時通.csprojAssemblyReference.cache
+D:\MachineLearning\C#\UDP即時通\obj\Debug\UDP即時通.Form1.resources
+D:\MachineLearning\C#\UDP即時通\obj\Debug\UDP即時通.Properties.Resources.resources
+D:\MachineLearning\C#\UDP即時通\obj\Debug\UDP即時通.csproj.GenerateResource.cache
+D:\MachineLearning\C#\UDP即時通\obj\Debug\UDP即時通.csproj.CoreCompileInputs.cache
+D:\MachineLearning\C#\UDP即時通\obj\Debug\UDP即時通.exe
+D:\MachineLearning\C#\UDP即時通\obj\Debug\UDP即時通.pdb
